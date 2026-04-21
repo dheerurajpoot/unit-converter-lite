@@ -72,14 +72,10 @@ export default function RootLayout({
 					}}
 				/>
 				{/* Google Search Console */}
-				<meta
-					name='google-site-verification'
-					content='XXXXXXXXXXXXXX' // Replace with your Google Search Console verification code
-				/>
-				{/* AdSense */}
+				<meta name="google-site-verification" content="TxmexGzxRMEa83YuMpgP46SvZ4Bxo3KsWHADvOQ387Y" />
 				<Script
 					strategy='afterInteractive'
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX' // Replace with your AdSense ID
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3612241166480319' // Replace with your AdSense ID
 					crossOrigin='anonymous'
 				/>
       </head>
