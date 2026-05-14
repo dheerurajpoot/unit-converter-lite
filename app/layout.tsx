@@ -75,7 +75,7 @@ export default function RootLayout({
 				<meta name="google-site-verification" content="TxmexGzxRMEa83YuMpgP46SvZ4Bxo3KsWHADvOQ387Y" />
 				<Script
 					strategy='afterInteractive'
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3612241166480319' // Replace with your AdSense ID
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6140641219207156' // Replace with your AdSense ID
 					crossOrigin='anonymous'
 				/>
       </head>
